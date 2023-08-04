@@ -1,4 +1,4 @@
-# Classes em PHP
+# Classes em PHP/Helpers Laravel
 
 Podemos usar em PHP puro ou em frameworks como o Laravel.
 
