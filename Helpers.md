@@ -1,4 +1,4 @@
-# Heleprs para Laravel
+# Helpers para Laravel
 
 Testado no laravel 10
 
