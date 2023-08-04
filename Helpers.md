@@ -35,7 +35,7 @@ Em cada classe adicione o namespace, como acima.
 ## cmpooser.json
 
 Adicione a entrada no composer.json abaixo do autoload, assim:
-
+```json
     "autoload": {
         "psr-4": {
             "App\\": "app/",
@@ -47,7 +47,7 @@ Adicione a entrada no composer.json abaixo do autoload, assim:
            "app/Helpers/Strings.php"
        ]
     },
-
+```
 Caso queira adicionar outros arquivos os insira abaixo do Files.
 
 ## Executar
